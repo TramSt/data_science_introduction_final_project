@@ -6,10 +6,15 @@
 - Project: Final Project
 
 ## Mô tả project
-Project gồm 3 phần chính:
-1. Thu thập và xử lý dữ liệu
-2. Phân tích và trực quan hóa dữ liệu
-3. Xây dựng mô hình Machine Learning cơ bản
+
+Bài 1
+Xây dựng bộ dữ liệu song ngữ về sức khỏe tâm thần sinh viên
+Bài 2
+Phân tích mức độ hài lòng về chất lượng Wifi tại IUH
+Bài 3
+Khai phá dữ liệu từ câu nói của người nổi tiếng
+
+
 
 ## Công nghệ sử dụng
 - Python
