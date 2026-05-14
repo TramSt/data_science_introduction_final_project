@@ -1,0 +1,75 @@
+﻿ID,Source,Rule,Naturalness,Meaning,Grammar,Comment
+Q11,Gemini,Rule 1,5,5,5,"Transition ""Based on my experience"" fits well with reflecting on the past."
+Q11,Gemini,Rule 2,4,5,5,"""For what reason"" is formal but accurate; question is clearly specified."
+Q11,Gemini,Rule 3,4,5,5,Synonym substitutions are appropriate for an academic context.
+Q11,Gemini,Rule 4,5,5,5,"""Research suggests"" adds a professional tone consistent with the context."
+Q11,Gemini,Rule 5,5,5,5,Adverbial addition flows naturally into the main clause.
+Q12,Gemini,Rule 1,5,5,5,Effectively shifts the perspective to personal reflection.
+Q12,Gemini,Rule 2,4,5,5,"""Which aspects of your mental state"" makes the inquiry more targeted."
+Q13,Gemini,Rule 1,5,5,5,Maintains the integrity of the educational importance while adding reflection.
+Q13,Gemini,Rule 2,5,5,5,"Specificity regarding ""university curriculum"" enhances the prompt."
+Q13,Gemini,Rule 3,4,5,5,"""Institution undergraduates"" is slightly formal but grammatically sound."
+Q16,Gemini,Rule 1,5,5,5,Perfectly preserves the logic of investment versus outcomes.
+Q16,Gemini,Rule 4,5,5,5,The structural change supports the evidence-based answer provided.
+Q21,Gemini,Rule 2,4,5,5,"Focus on ""cognitive function"" is a good specific conversion of ""How""."
+Q21,Gemini,Rule 5,5,5,5,"""More often than not"" serves as a smooth entry point for the benefits."
+Q22,Gemini,Rule 1,5,5,5,Reflection aligns perfectly with the result-oriented answer.
+Q22,Gemini,Rule 3,5,5,5,"""Emotional well-being"" is a seamless synonym for mental health here."
+Q31,Gemini,Rule 2,5,5,5,"Conversion to ""Which aspects"" creates a very professional academic question."
+Q31,Gemini,Rule 4,5,5,5,Contextualizes the common concerns within current student life research.
+Q32,Gemini,Rule 1,5,5,5,Personalizes the impact of financial stress through past-semester reflection.
+Q32,Gemini,Rule 5,5,5,5,Appropriately uses a student viewpoint to discuss financial burdens.
+Q41,Gemini,Rule 3,4,5,5,"""Guidance"" is a fair synonym for support in an institutional framework."
+Q41,Gemini,Rule 4,5,5,5,Effectively frames ethical responsibilities as a research-backed necessity.
+Q50,Gemini,Rule 2,5,5,5,"""Ethically justifiable"" adds the required specificity to the ""Why"" question."
+Q50,Gemini,Rule 5,5,5,5,Balances a sensitive topic with a common student-perspective adverbial.
+Q11,ChatGPT,Rule 1,5,4,4,Reframing to past semester context is effective and meaning is fully preserved.
+Q11,ChatGPT,Rule 2,4,4,4,WH-question conversion is clear and preserves the original inquiry.
+Q11,ChatGPT,Rule 3,5,5,5,Synonym substitution is contextually appropriate; meaning is well preserved.
+Q11,ChatGPT,Rule 4,5,5,4,'Among students' provides useful context; passive framing is grammatically correct.
+Q11,ChatGPT,Rule 5,4,4,4,Adverb placement is natural; both question and answer are well-formed.
+Q12,ChatGPT,Rule 1,5,4,5,Temporal context is clear; sentence is grammatically correct and fluent.
+Q12,ChatGPT,Rule 2,5,5,5,WH form is more open-ended; meaning and grammar are both accurate.
+Q12,ChatGPT,Rule 3,4,4,5,Key term replacement is appropriate; the answer remains fully meaningful.
+Q12,ChatGPT,Rule 4,4,4,4,Restructured sentence maintains coherence and grammatical accuracy.
+Q12,ChatGPT,Rule 5,4,5,4,Adverbial addition provides useful hedging without distorting meaning.
+Q13,ChatGPT,Rule 1,4,4,4,The added time frame does not alter meaning; transition phrase flows naturally.
+Q13,ChatGPT,Rule 2,4,5,5,WH form is more open-ended; meaning and grammar are both accurate.
+Q13,ChatGPT,Rule 3,4,4,5,Synonym choice is accurate; sentence flows naturally with the replacement.
+Q13,ChatGPT,Rule 4,5,4,5,'Among students' provides useful context; passive framing is grammatically correct.
+Q13,ChatGPT,Rule 5,5,5,5,Adverb placement is natural; both question and answer are well-formed.
+Q16,ChatGPT,Rule 1,4,5,4,Past tense framing feels natural; 'Looking back' is an appropriate discourse marker.
+Q16,ChatGPT,Rule 2,4,5,4,The converted question is grammatically sound and retains full meaning.
+Q16,ChatGPT,Rule 3,4,4,4,Synonym choice is accurate; sentence flows naturally with the replacement.
+Q16,ChatGPT,Rule 4,4,5,5,The added subject frame is appropriate; meaning preservation is high.
+Q16,ChatGPT,Rule 5,4,5,5,Adverbial addition provides useful hedging without distorting meaning.
+Q21,ChatGPT,Rule 1,5,5,5,Past tense framing feels natural; 'Looking back' is an appropriate discourse marker.
+Q21,ChatGPT,Rule 2,5,5,4,WH form is more open-ended; meaning and grammar are both accurate.
+Q21,ChatGPT,Rule 3,5,4,4,Synonym choice is accurate; sentence flows naturally with the replacement.
+Q21,ChatGPT,Rule 4,4,5,5,Topic shift phrase is natural; answer restructure is clear and appropriate.
+Q21,ChatGPT,Rule 5,4,5,5,'Generally speaking' is an appropriate generalization marker; grammar is correct.
+Q22,ChatGPT,Rule 1,4,4,5,The added time frame does not alter meaning; transition phrase flows naturally.
+Q22,ChatGPT,Rule 2,4,4,4,WH form is more open-ended; meaning and grammar are both accurate.
+Q22,ChatGPT,Rule 3,5,5,4,Synonym choice is accurate; sentence flows naturally with the replacement.
+Q22,ChatGPT,Rule 4,4,5,5,Structural restructure adds perspective without altering the core meaning.
+Q22,ChatGPT,Rule 5,4,4,4,Adverb placement is natural; both question and answer are well-formed.
+Q31,ChatGPT,Rule 1,5,5,5,'In the past semester' sets context without distorting the original intent.
+Q31,ChatGPT,Rule 2,4,5,5,The converted question is grammatically sound and retains full meaning.
+Q31,ChatGPT,Rule 3,4,4,5,Synonym choice is accurate; sentence flows naturally with the replacement.
+Q31,ChatGPT,Rule 4,4,4,4,Structural restructure adds perspective without altering the core meaning.
+Q31,ChatGPT,Rule 5,5,4,5,'In most cases' appropriately qualifies the answer without losing meaning.
+Q32,ChatGPT,Rule 1,5,4,5,The added time frame does not alter meaning; transition phrase flows naturally.
+Q32,ChatGPT,Rule 2,5,5,5,The converted question is grammatically sound and retains full meaning.
+Q32,ChatGPT,Rule 3,5,4,5,Synonym substitution is contextually appropriate; meaning is well preserved.
+Q32,ChatGPT,Rule 4,5,5,5,The added subject frame is appropriate; meaning preservation is high.
+Q32,ChatGPT,Rule 5,4,5,5,Adverbial addition provides useful hedging without distorting meaning.
+Q41,ChatGPT,Rule 1,4,4,5,Reframing to past semester context is effective and meaning is fully preserved.
+Q41,ChatGPT,Rule 2,5,4,5,WH-question conversion is clear and preserves the original inquiry.
+Q41,ChatGPT,Rule 3,5,5,5,Key term replacement is appropriate; the answer remains fully meaningful.
+Q41,ChatGPT,Rule 4,5,4,4,The added subject frame is appropriate; meaning preservation is high.
+Q41,ChatGPT,Rule 5,4,5,5,'Generally speaking' is an appropriate generalization marker; grammar is correct.
+Q50,ChatGPT,Rule 1,5,5,5,Past tense framing feels natural; 'Looking back' is an appropriate discourse marker.
+Q50,ChatGPT,Rule 2,4,5,5,Rephrase to ask about strategies is appropriate and more specific.
+Q50,ChatGPT,Rule 3,4,4,5,Synonym substitution is contextually appropriate; meaning is well preserved.
+Q50,ChatGPT,Rule 4,4,5,5,'Among students' provides useful context; passive framing is grammatically correct.
+Q50,ChatGPT,Rule 5,5,4,4,'In most cases' appropriately qualifies the answer without losing meaning.
